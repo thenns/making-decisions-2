@@ -1,5 +1,5 @@
 // For problems 1-2 use the following lines of code:
-var arr = [10,20,30,40,50,60]
+const arr = [10,20,30,40,50,60]
 
 ////////// PROBLEM 1 //////////
 /*
@@ -8,7 +8,7 @@ var arr = [10,20,30,40,50,60]
 
 //Code Here
 
-var firstItem = arr[0]
+const firstItem = arr[0]
 
 ////////// PROBLEM 2 //////////
 /*
@@ -23,7 +23,7 @@ console.log(arr)
 ////////// PROBLEM 3 //////////
 
 // Do not edit the code below.
-var family = ['Tyler', 'Jordan', 'Ryan', 'Alice', 'Ireland'];
+const family = ['Tyler', 'Jordan', 'Ryan', 'Alice', 'Ireland'];
 // Do not edit the code above.
 
 /*
@@ -39,7 +39,7 @@ for (let i = 0; i < family.length; i++)
 ////////// PROBLEM 4 //////////
 
 // Do not edit the code below.
-var nums = [1,2,3,6,22,98,45,23,22,12];
+const nums = [1,2,3,6,22,98,45,23,22,12];
 let evensArr = []
 // Do not edit the code above.
 
@@ -57,7 +57,7 @@ for (let i = 0; i < nums.length; i++)
 ////////// PROBLEM 5 //////////
 
 // Do not edit the code below.
-var score = 74
+const score = 74
 // Do not edit the code above.
 
 /*
@@ -81,7 +81,7 @@ else if (score < 60)
 ////////// PROBLEM 6 //////////
 
 // Do not edit the code below.
-var myFavoriteNumbers = [4,8,12,16,20,24];
+const myFavoriteNumbers = [4,8,12,16,20,24];
 // Do not edit the code above.
 
 /*
@@ -90,7 +90,7 @@ var myFavoriteNumbers = [4,8,12,16,20,24];
 
 //Code Here
 
-var someNum = myFavoriteNumbers[4]
+const someNum = myFavoriteNumbers[4]
 
 
 ////////// PROBLEM 7 //////////
@@ -109,7 +109,7 @@ else if (mayFavoriteNumbers.lenght <= 7)
 ////////// PROBLEM 8 //////////
 
 // Do not edit the code below.
-var listOfNumbers = [1,2,3,4,5,6,7,8,9,10,11,12];
+const listOfNumbers = [1,2,3,4,5,6,7,8,9,10,11,12];
 // Do not edit the code above.
 
 // Use a for-loop to iterate through 'listOfNumbers', checking to see if each number is divisible by 3. If it is, console.log '{number} is divisible by 3.'
@@ -123,7 +123,7 @@ for (let i = 0; i <= listOfNumbers.length; i++)
 
 ////////// PROBLEM 9 //////////
 // Do not edit the code below.
-var letters = ['A', 'B', 'C', 'D', 'E'];
+const letters = ['A', 'B', 'C', 'D', 'E'];
 // Do not edit the code above.
 
 /*
